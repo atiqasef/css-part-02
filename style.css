@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+h1{
+    color: green ;
+    text-align: start;
+    text-decoration: ;
+    
+}
+span{
+    text-align: center;
+}
+a{
+    text-decoration: none;
+    font-size: 30px;
+   
+}
+.font-change-korlam{
+    font-family: "Roboto", serif;
+    font-optical-sizing: auto;
+    font-weight: 900;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+
+}
+#first-heading{
+    text-align: center;
+  
+}
+.text-center{
+    text-align: center;
+}
+.bg-blue{
+    background-color: blue;
+}
+.border{
+    border: 5px dashed red;
+   margin: 40px 30px 80px 100px;
+}
+.padding{
+    text-align: center;
+    background-color: lightblue;
+    color: white;
+    padding-top: 30px;
+    padding-bottom: 80px;
+    height: 650px;
+    width: 100%;
+    margin: 0 auto;
+    background-image: url(./premium_photo-1720004021036-44ff682b69b0.avif);
+    background-repeat: no-repeat;
+    
+    background-position: right top;
+}
